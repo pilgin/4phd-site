@@ -1,16 +1,20 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
+title: Сайт администрации города F
+image: /img/tild3838-3136-4237-b765-336664366263__tulsky_kreml.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
+  title: О городе
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Наш город F — современный  мегаполис. В городе массово внедрены самые
+    современные цифровые технологии. Хорошо развито электронное правительство,
+    медицина, транспортная сеть, система видеонаблюдения, промышленные
+    инфраструктуры, технологии «блокчейн». 
+
+    Население составляет около 15 млн человек. В городе F живут талантливые,
+    трудолюбивые и доверчивые люди. Каждый, кто раз побывает у нас, обязательно
+    захочет вернуться вновь.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -68,3 +72,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
